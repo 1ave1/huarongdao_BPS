@@ -1,2 +1,11 @@
 # huarongdao_BPS
-这是一个可以同时实现用户交互功能以及自走功能的Java华容道项目/This is a Java Huarong Dao project that can implement both user interaction and automatic solving functions.
+这是一个用Java编写的华容道项目，
+可以粗略实现：
+1.用户按钮交互功能（移动棋子、关卡选取、悔棋、退出游戏）
+2.自走功能（下一步提示、自动寻路）
+
+参考了两个优秀的Java项目：
+https://github.com/weianzhu/Klotski-Java-Solver.git
+https://github.com/dcfun/HuaRongRoad.git
+
+Java初学者，代码功底比较薄弱
