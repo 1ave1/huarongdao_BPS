@@ -8,4 +8,4 @@
 https://github.com/weianzhu/Klotski-Java-Solver.git
 https://github.com/dcfun/HuaRongRoad.git
 
-Java初学者，代码功底比较薄弱
+本人是Java初学者，代码功底比较薄弱，对算法亦是只知皮毛，屎山勿喷
